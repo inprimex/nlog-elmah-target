@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlog-elmah-target", "nlog-elmah-target\nlog-elmah-target.csproj", "{C05B8D64-C784-406E-8C77-90ECB5F10B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlog-elmah-target.Tests.Web", "nlog-elmah-target.Tests.Web\nlog-elmah-target.Tests.Web.csproj", "{FB52BECB-F3E1-4879-9C6E-6217E98721C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlog2-elmah-target", "nlog2-elmah-target\nlog2-elmah-target.csproj", "{67AB7686-823F-4D58-9698-82C23A676C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05B8D64-C784-406E-8C77-90ECB5F10B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05B8D64-C784-406E-8C77-90ECB5F10B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05B8D64-C784-406E-8C77-90ECB5F10B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05B8D64-C784-406E-8C77-90ECB5F10B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB52BECB-F3E1-4879-9C6E-6217E98721C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB52BECB-F3E1-4879-9C6E-6217E98721C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB52BECB-F3E1-4879-9C6E-6217E98721C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB52BECB-F3E1-4879-9C6E-6217E98721C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AB7686-823F-4D58-9698-82C23A676C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AB7686-823F-4D58-9698-82C23A676C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AB7686-823F-4D58-9698-82C23A676C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AB7686-823F-4D58-9698-82C23A676C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
